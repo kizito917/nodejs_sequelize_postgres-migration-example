@@ -16,4 +16,4 @@ This repository contains the complete working codebase that showcases how to run
 
 ### Video
 
-📺 [YouTube Video](https://youtu.be/5-9vvTuNPTc?si=0oXU9xGbhjdA34aR) for this repository.
+📺 [YouTube Video](https://youtu.be/x-eOAYpsy7M) for this repository.
